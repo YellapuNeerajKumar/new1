@@ -1,5 +1,5 @@
 {
-  "homepage":"https://YellapuNeerajKumar.github.io/new1",
+  "homepage": "https://YellapuNeerajKumar.github.io/new1",
   "name": "flatpack",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +14,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "preydeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "preydeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
